@@ -1,0 +1,32 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Student: Siruno (TUPM-26-7958)
+Target year: 2023
+Total records in dataset: 3000
+Incidents in target year: 315
+Invalid financial values skipped: 0
+
+Count per attack type:
+  SQL Injection: 63
+  Malware: 55
+  DDoS: 51
+  Ransomware: 50
+  Man-in-the-Middle: 50
+  Phishing: 46
+
+Total financial loss (USD millions): 15958.08
+Average financial loss (USD millions): 50.66
+
+Five costliest incidents:
+  1. Australia | Malware | 99.72M
+  2. France | Man-in-the-Middle | 99.71M
+  3. USA | DDoS | 99.64M
+  4. Australia | DDoS | 99.62M
+  5. Australia | SQL Injection | 99.19M
+
+Output files:
+  output\Siruno_TUPM-26-7958_ex3_filtered.csv
+  output\Siruno_TUPM-26-7958_ex3_top5.json
+  backup\Siruno_TUPM-26-7958_ex3_top5.json
+  output\Siruno_TUPM-26-7958_ex3_report.txt
+Backup verification: VERIFIED

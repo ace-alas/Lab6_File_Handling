@@ -1,0 +1,15 @@
+{
+    "last_name": "Siruno",
+    "student_id": "TUPM-26-7958",
+    "seed_digit": 8,
+    "operating_system": "Android",
+    "user_behavior_class": 4,
+    "total_records": 700,
+    "records_matching_os": 554,
+    "records_in_target_class": 110,
+    "invalid_records": 0,
+    "average_battery_drain_mah_day": 2101.22,
+    "average_data_usage_mb_day": 1235.07,
+    "exported_rows": 110,
+    "count_verification": "VERIFIED"
+}

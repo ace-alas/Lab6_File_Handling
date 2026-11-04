@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+---------------------------------------
+Last Name:Siruno
+Student ID:TUPM-26-7958
+Seed Digit:8
+ID Sum: 37
+Verification Value: 230
+Dataset Sample Size: 87
+Valid Records: 87
+Average Global Active Power: 3.882
+JSON File: Siruno_TUPM-26-7958_record.json
+Backup File: Siruno_TUPM-26-7958_record.csv

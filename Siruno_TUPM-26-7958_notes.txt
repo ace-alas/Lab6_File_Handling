@@ -1,0 +1,5 @@
+Student: Siruno
+Student ID: TUPM-26-7958
+Seed digit: 8
+ID sum: 37
+Verification value: 230
